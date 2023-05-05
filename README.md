@@ -1,5 +1,10 @@
 # Blood_Connections_Project
 
+
+Link to project:
+https://www.dropbox.com/scl/fo/7rql58cort4tx6eq4g9tb/h?dl=0&rlkey=2ynt4u8pojs9lveafbwjwwmoj
+
+
 ABSTRACT:
 Blood donation is crucial since it happens frequently that patients who need blood do not get it in a timely manner, which can result in death. Serious accidents, dengue or malaria patients, or organ transplant recipients are a few examples.
 With the frequency of incidents increasing, the need for blood is urgent.
