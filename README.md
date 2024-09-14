@@ -4,6 +4,9 @@
 Link to project:
 https://www.dropbox.com/scl/fo/7rql58cort4tx6eq4g9tb/h?dl=0&rlkey=2ynt4u8pojs9lveafbwjwwmoj
 
+![4_SS](https://github.com/user-attachments/assets/bd92f871-4e46-41af-9fe3-bb63421c1c4d)
+![5_SS](https://github.com/user-attachments/assets/885fadab-b33c-42d7-8644-e96316491544)
+
 
 ABSTRACT:
 Blood donation is crucial since it happens frequently that patients who need blood do not get it in a timely manner, which can result in death. Serious accidents, dengue or malaria patients, or organ transplant recipients are a few examples.
